@@ -41,6 +41,7 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb
+!notebooks/*.ipynb  # 但允许notebooks目录下的笔记本
 
 # pytest缓存
 .pytest_cache/
