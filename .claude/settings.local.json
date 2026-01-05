@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(where:*)",
+      "Bash(ls:*)",
+      "Bash(dir \"D:\\\\shixun\\\\project\\\\data\\\\*.duckdb\" /b)",
+      "Bash(tree:*)",
+      "Bash(timeout 10 python:*)",
+      "Bash(dir:*)",
+      "Bash(test:*)",
+      "Bash(mkdir:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(del .gitindex.lock)"
+    ]
+  }
+}
